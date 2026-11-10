@@ -1,0 +1,4 @@
+#Liste des commandes Git : -
+git add "Nom du fichier à selectionner"
+git commit -m "Message à envoyer"
+git push "Envoyer le message"
